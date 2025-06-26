@@ -1,6 +1,6 @@
 export const foo = {
-  foo: 'FOO',
-  bar: 'BAR',
+	foo: "FOO",
+	bar: "BAR",
 };
 
-console.log('This is lint!');
+console.log("This is lint!!");
